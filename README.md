@@ -1,3 +1,3 @@
-## WongJohn Blog Page
+## 菠萝蜜团队
 
-See the result at: http://wongjohn.github.io/
+See the result at: http://boluomi-team.github.io/
